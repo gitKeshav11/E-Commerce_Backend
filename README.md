@@ -53,7 +53,7 @@ This project demonstrates fundamental e-commerce functionalities using Java. It 
 
 1. **Clone the repo:**
    ```bash
-   git clone https://github.com/gitKeshav11/E-Commerce_Backend.git
+   git clone https://github.com/Death-Soul360/E-Commerce-project.git
 
 2. **Import in IDE:**
    IntelliJ IDEA / Eclipse / NetBeans
